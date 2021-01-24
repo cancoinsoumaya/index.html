@@ -1,0 +1,35 @@
+body {
+    background-image: url(xs.jpg);
+    background-repeat: no-repeat;
+    background-size : 100% 100% ;
+    background-attachment: fixed;
+    font-family: 'Cardo', serif; 
+
+}
+h1{
+    font-family: 'Roboto Slab', serif;
+}
+h3{
+    font-family: 'Cabin', sans-serif;
+}
+img{
+    width: 500px;
+}
+header{
+    text-align: center;
+    color: rgb(90, 13, 13);
+}
+.presentation{
+    position: relative;
+    border: 1px solid;
+    border-color:white;
+    font-size: 25px;
+    
+    display: flex;
+    padding: 5%;
+    background-image: url(Aboutme.jpg);
+}
+.apropsdemoi{
+    flex-shrink:4;
+    background-color: white;
+}
